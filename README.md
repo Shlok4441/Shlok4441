@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack, GenAI, DSA**
+- 🌱 I’m currently learning **MERN Stack, Data Science, DSA**
 
 - 📫 How to reach me **shlokgawade@gmail.com**
 
